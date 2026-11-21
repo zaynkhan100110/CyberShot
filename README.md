@@ -257,6 +257,53 @@ Please include your OS, desktop/session (Hyprland, X11, GNOME Wayland, KDE Wayla
 
 
 
+
+---
+
+## Cyber Project Collection (Don't get idea about `CS`)
+
+CyberShot is part of a collection of independent Cyber projects.
+
+### 1. CyberPunk
+
+**Repository:** https://github.com/spoilpetal/CyberPunk
+
+The Arch Linux desktop configuration and installation project. It provides an automated way to deploy the CyberPunk Hyprland desktop environment.
+
+### 2. CyberClip Lite
+
+**Repository:** https://github.com/spoilpetal/CyberClip_lite
+
+A lightweight project in the CyberClip clipboard utility collection.
+
+### 3. CyberClip
+
+**Repository:** https://github.com/spoilpetal/CyberClip
+
+A clipboard utility project in the Cyber software collection.
+
+### 4. CyberShot
+
+**Repository:** https://github.com/zaynkhan100110/CyberShot
+
+A screenshot utility for Linux desktop environments.
+
+### 5. CyberSettings
+
+**Repository:** https://github.com/zaynkhan100110/CyberSettings
+
+A Linux system settings utility project.
+
+### 6. CyberNotes
+
+**Repository:** https://github.com/spoilpetal/CyberNotes
+
+A note-taking project in the Cyber software collection.
+
+---
+
+
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
